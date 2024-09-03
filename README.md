@@ -1,5 +1,4 @@
 Tic Tac Toe
-![Screenshot (1027)](https://github.com/user-attachments/assets/090064aa-2692-4e43-a107-c6965b5846a1)
 
 Overview
 This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to play Tic Tac Toe in their web browser. It features a grid of buttons that players can click to make their moves, and provides options to start a new game or reset the current game.
