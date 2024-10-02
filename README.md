@@ -1,11 +1,11 @@
 
 
-##Tic Tac Toe
+# Tic Tac Toe
 
 ##Overview
 This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to play Tic Tac Toe in their web browser. It features a grid of buttons that players can click to make their moves, and provides options to start a new game or reset the current game.
 
-##Features
+## Features
 Play Tic Tac Toe: A grid of buttons where players can click to make their moves.
 Winner Announcement: Displays a message when a player wins the game.
 New Game: Allows players to start a new game.
@@ -29,7 +29,7 @@ Open the HTML File:
 
 Open index.html in your preferred web browser to start playing the game.
 
-##How to Play
+## How to Play
 Click on the buttons in the grid to make your move.
 The game will automatically check for a winner after each move.
 If there is a winner, a message will be displayed.
